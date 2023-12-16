@@ -7,7 +7,7 @@
 ## About me
 
 <!-- TO DO: add more details about me later -->
-Hi, I'm Nadine - member of Code Lou Winter Cohort 2023.
+Hi, I'm Nadine - member of Code Lou Winter Cohort 2024.
 
 <details>
 <summary>My top Hobbies</summary>
